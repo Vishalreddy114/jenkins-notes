@@ -5,6 +5,3 @@ It is free and open source.
 It is written in Java. To run jenkins in our system we need to have java installed.
 Introduction:
 
-Jenkins is a CI/CD tool.
-It is free and open source.
-It is written in java. To run jenkins we need to have java installed.
