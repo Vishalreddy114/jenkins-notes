@@ -3,5 +3,21 @@ Introduction:
 Jenkins is a CI/CD tool.
 It is free and open source.
 It is written in Java. To run jenkins in our system we need to have java installed.
-Introduction:
+
+What is continuous integration and delivery , deployment?
+
+Continuous Integration:
+-------------------------
+
+Development --> Application Test --> Integration Test
+
+Continuous Delivery: 
+--------------------
+Development --> Application Test --> Integration Test --> Acceptance Test
+
+Continuous Deployment: 
+-----------------------
+Development --> Application Test --> Integration Test --> Acceptance Test --> production
+
+
 
